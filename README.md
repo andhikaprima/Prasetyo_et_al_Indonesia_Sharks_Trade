@@ -2,6 +2,8 @@
 Scripts related to manuscript titled 
 Shark and ray trade in and out of Indonesia: Addressing knowledge gaps on the path to sustainability
 
+https://doi.org/10.1016/j.marpol.2021.104714
+
 Andhika P. Prasetyo , Allan D. McDevitt , Joanna M. Murray , Jon Barry , Firdaus Agung ,
 Efin Muttaqin e, Stefano Mariani f
 
